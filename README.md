@@ -44,7 +44,7 @@ SQL queries, dashboards, storytelling with data, or how to make your spreadsheet
     <img src="https://github.com/user-attachments/assets/cb8d01b6-cbd1-4478-a10d-9fb6bd33878f" width="40" height="40" alt="Gmail" />
   </a>
   
-  <a href="https://www.instagram.com/pav1zzz/" target="_blank">
+  <a href="https://www.instagram.com/_pav1zzz/" target="_blank">
     <img src="https://github.com/user-attachments/assets/16ba98f0-59e0-4894-8614-3e3e6f6356a4" width="40" height="40" alt="Instagram" />
   </a>
 </p>
